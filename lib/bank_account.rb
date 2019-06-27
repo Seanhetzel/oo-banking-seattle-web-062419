@@ -1,6 +1,6 @@
 class BankAccount
 
-  def initialize
+  def initialize(bank_account)
 
   end
 end
