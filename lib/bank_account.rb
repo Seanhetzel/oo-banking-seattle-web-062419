@@ -23,4 +23,5 @@ class BankAccount
     else
       false
     end
+  end
 end
