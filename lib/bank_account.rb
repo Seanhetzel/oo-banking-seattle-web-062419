@@ -21,7 +21,7 @@ class BankAccount
     if @balance > 0
       true
     else
-      false
+      return false
     end
   end
 end
